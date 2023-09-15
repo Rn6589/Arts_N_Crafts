@@ -1,0 +1,301 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Arts_N_CraftsWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Arts_N_CraftsWeb.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\css\\BootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\BootswatchTheme.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\images\\flower.jpg",
+      "PackagePath": "staticwebassets\\images\\flower.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\images\\products\\1a07ea85-d4ac-4ac9-8497-12610cbd454f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1a07ea85-d4ac-4ac9-8497-12610cbd454f.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\images\\products\\a3e4dd1d-ff6a-4882-be16-e9eae2a3c1d8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a3e4dd1d-ff6a-4882-be16-e9eae2a3c1d8.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\images\\products\\d1c9ace2-f73d-43ca-b111-7afbfce7bfc1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\d1c9ace2-f73d-43ca-b111-7afbfce7bfc1.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\images\\products\\fb802680-0685-41ad-a34a-bf1ce6473111.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\fb802680-0685-41ad-a34a-bf1ce6473111.jpg"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\6th sem\\Arts_N_CraftsWeb\\Arts_N_CraftsWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Arts_N_CraftsWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Arts_N_CraftsWeb.props",
+      "PackagePath": "build\\Arts_N_CraftsWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Arts_N_CraftsWeb.props",
+      "PackagePath": "buildMultiTargeting\\Arts_N_CraftsWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Arts_N_CraftsWeb.props",
+      "PackagePath": "buildTransitive\\Arts_N_CraftsWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
